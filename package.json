@@ -1,0 +1,41 @@
+{
+  "name": "watchnlearn",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^17.3.2",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "expo": "~48.0.4",
+    "expo-av": "~13.2.1",
+    "expo-status-bar": "~1.4.4",
+    "firebase": "^9.17.2",
+    "lodash": "^4.17.21",
+    "paynow": "^1.0.9",
+    "react": "18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.71.6",
+    "react-native-circular-progress-indicator": "^4.4.2",
+    "react-native-elements": "^3.4.3",
+    "react-native-progress": "^5.0.0",
+    "react-native-progress-circle": "^2.1.0",
+    "react-native-video": "^5.2.1",
+    "react-native-web": "~0.18.11",
+    "expo-updates": "~0.16.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/lodash": "^4.14.192",
+    "@types/react": "~18.0.27",
+    "@types/react-native": "^0.71.3",
+    "@types/react-native-video": "^5.0.14",
+    "typescript": "^4.9.4"
+  },
+  "private": true
+}
